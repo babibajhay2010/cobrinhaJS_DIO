@@ -1,0 +1,10 @@
+/* COMMENTS */
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center; /* alinha no centro verticalmente */
+    align-items: center; /* alinha no centro horizontalmente */
+    flex-direction: column;
+    color: blueviolet;
+}
